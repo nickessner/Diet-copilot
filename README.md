@@ -1,1 +1,1 @@
-# MFP
+# AutomatedMealPlans
